@@ -1,0 +1,19 @@
+.box {
+    background-color: #85dae9;
+    color: white;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+    width: 800px;   
+}
+
+.button
+    {
+        background-color: rgb(93, 166, 226);
+        border: none;
+        font-size: 20px;
+        padding: 16px 32px;
+        color: white;
+        text-align: right;
+    }
+
